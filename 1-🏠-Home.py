@@ -13,5 +13,5 @@ st.title("Treinamento funcional para uma vida sem sedentarismo :woman-running:")
 st.image(image)
 
 st.write("""
-O Projeto Treinamento funcional Para Uma Vida Sem Sedentarismo foi desenvolvido com o pensamento voltado para as senhoras e jovens da comunidade da Vila De Fogareiro, distrito de Passagem, que viviam uma vida sedentária, sem nenhuma prática de exercício físico/atividade física. O projeto tem o intuito de fazer com que as mulheres da comunidade pudessem manter e aderir um estilo de vida saudável com a realização de determinadas atividades dentro da condição corporal de cada mulher, auxiliando assim para a prevenção de doenças.
+O Projeto Treinamento Funcional Para Uma Vida Sem Sedentarismo foi desenvolvido com o pensamento voltado para as senhoras e jovens da comunidade da Vila De Fogareiro, distrito de Passagem, que viviam uma vida sedentária, sem nenhuma prática de exercício físico/atividade física. O projeto tem o intuito de fazer com que as mulheres da comunidade pudessem manter e aderir um estilo de vida saudável com a realização de determinadas atividades dentro da condição corporal de cada mulher, auxiliando assim para a prevenção de doenças.
          """)
